@@ -21,7 +21,9 @@ public class ExemplosApplication {
 	public CommandLineRunner run(String... strings) throws Exception {
 		return args -> {
 
-		/* 	@SuppressWarnings("unused")
+		
+		
+			/* 	@SuppressWarnings("unused")
 
 			MInhaClasse objeto = null;
 			objeto = new MInhaClasse();
